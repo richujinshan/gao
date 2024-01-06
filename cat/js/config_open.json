@@ -6,7 +6,7 @@
 {"key":"sc1080_open","name":"影视 | 圣城","type":3,"api":"assets://js/sc1080_open.js"},
 
 {"key":"ff_open","name":"影视 | 非凡","type":3,"api":"assets://js/ff_open.js"},
-{"key":"push_agent","name":"影视 | 推送","type":4,"api":"assets://js/push_open.js","ext":{"token":"ali_token","cookie":"quark_cookie"}},
+{"key":"push_agent","name":"影视 | 推送","type":4,"api":"assets://js/push_open.js","ext":{"token":"gitee://b35ec9f271a6b8f8156313a530855a12@gitee.com/sunrise-golden-mountain/token/master/token.txt","cookie":"quark_cookie"}},
 {"key":"ggys_open","name":"影视 | 高光","type":3,"api":"assets://js/ggys_open.js"},
 {"key":"ddys_open","name":"影视 | 低端","type":3,"api":"assets://js/ddys_open.js"},
 {"key":"4kysxz_open","name":"影视 | 4KXZ","type":3,"api":"assets://js/4kysxz_open.js"},
@@ -33,10 +33,10 @@
 {"key":"mimiju_open","name":"影视 | 迷迷剧","type":3,"api":"assets://js/mimiju_open.js"},
 {"key":"yjys_open","name":"影视 | 悠久","type":3,"api":"assets://js/yjys_open.js"},
 
-{"key":"wogg","name":"阿里 | 玩偶哥哥","type":3,"api":"assets://js/wogg.js","ext":"填自己的32位token"},
-{"key":"wobg_open","name":"阿里 | 玩偶表哥","type":3,"api":"assets://js/wobg_open.js","ext":"填入你的token"},
-{"key":"dovx_open","name":"阿里 | 七夜","type":3,"api":"assets://js/dovx_open.js","ext":"填入你的token"},
-{"key":"pansearch_open","name":"阿里 | 盘搜索","type":3,"api":"assets://js/pansearch_open.js","ext":"填入你的token"},
+{"key":"wogg","name":"阿里 | 玩偶哥哥","type":3,"api":"assets://js/wogg.js","ext":"gitee://b35ec9f271a6b8f8156313a530855a12@gitee.com/sunrise-golden-mountain/token/master/token.txt"},
+{"key":"wobg_open","name":"阿里 | 玩偶表哥","type":3,"api":"assets://js/wobg_open.js","ext":"gitee://b35ec9f271a6b8f8156313a530855a12@gitee.com/sunrise-golden-mountain/token/master/token.txt"},
+{"key":"dovx_open","name":"阿里 | 七夜","type":3,"api":"assets://js/dovx_open.js","ext":"gitee://b35ec9f271a6b8f8156313a530855a12@gitee.com/sunrise-golden-mountain/token/master/token.txt"},
+{"key":"pansearch_open","name":"阿里 | 盘搜索","type":3,"api":"assets://js/pansearch_open.js","ext":"gitee://b35ec9f271a6b8f8156313a530855a12@gitee.com/sunrise-golden-mountain/token/master/token.txt"},
 {"key":"funletu","name":"夸克 | 趣盘搜","type":3,"api":"assets://js/funletu.js","ext":"夸克cookie,可http"},
 
 {"key":"ys996_open","name":"影视 | 996","type":3,"api":"assets://js/ys996_open.js"},
